@@ -1,4 +1,18 @@
-# VeloSpace IA API
+![Logo VeloSpace](images/logo.jpeg)
+
+# VeloSpace: Plataforma de Gestão e Validação de CubeSats
+
+## Definição do Projeto
+
+### O que é o VeloSpace?
+
+O **VeloSpace** é uma plataforma digital desenvolvida para conectar proprietários de **CubeSats**, como universidades, instituições de pesquisa e desenvolvedores independentes, a empresas fornecedoras de serviços de lançamento espacial.
+
+O projeto surgiu da necessidade de reduzir a burocracia e a dificuldade encontradas por organizações que desejam colocar pequenos satélites em órbita, aproveitando oportunidades de lançamento frequentemente subutilizadas pelas empresas do setor aeroespacial.
+
+A proposta do VeloSpace é tornar o processo de candidatura, seleção, rastreabilidade e validação de CubeSats mais **digital, transparente, seguro e eficiente**.
+
+---
 
 ## 1. Visão geral
 
@@ -533,6 +547,21 @@ Por se tratar de um protótipo inicial, esta solução ainda possui algumas limi
 - possibilidade de o modelo aprender padrões artificiais do dataset sintético;
 - necessidade de validação com especialistas do domínio espacial;
 - ausência, neste momento, de uma camada mais robusta de autenticação e segurança.
+
+---
+
+## 🗃️ Diagrama de Entidade-Relacionamento (DER)
+
+<div align="center">
+  <img src="images/Logical.png" alt="Diagrama DER VeloSpace" style="max-width: 90%; border: 1px solid #ddd; border-radius: 4px;">
+</div>
+
+---
+
+## Diagrama de Arquitetura
+<div align="center">
+  <img src="images/Diagramadearquitetura.drawio.png" alt="Diagrama DER VeloSpace" style="max-width: 90%; border: 1px solid #ddd; border-radius: 4px;">
+</div>
 
 ---
 

@@ -560,7 +560,7 @@ Por se tratar de um protótipo inicial, esta solução ainda possui algumas limi
 
 ## Diagrama de Arquitetura
 <div align="center">
-  <img src="images/Diagramadearquitetura.drawio.png" alt="Diagrama DER VeloSpace" style="max-width: 90%; border: 1px solid #ddd; border-radius: 4px;">
+  <img src="images/DiagramaAtualizado.drawio.png" alt="Diagrama DER VeloSpace" style="max-width: 90%; border: 1px solid #ddd; border-radius: 4px;">
 </div>
 
 ---
